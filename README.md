@@ -1,4 +1,4 @@
-## Lab 12 - EncryptedMessageApp
+## Lab 14 - EncryptedMessageApp
  
 ## Scenario 
 So far you have made a message app where a user can write a message, which can be stored to a file. The user can search through the messages by subject, sender, and receiver. To finish up the program, this week you will add another type of encryption, the `Substitution Cipher`. Instructions can be found in the [javadoc](http://www.cs.colostate.edu/~cs163/javadoc/lab14/package-summary.html).
