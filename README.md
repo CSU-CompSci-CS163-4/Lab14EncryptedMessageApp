@@ -1,7 +1,7 @@
 ## Lab 14 - EncryptedMessageApp
  
 ## Scenario 
-So far you have made a message app where a user can write a message, which can be stored to a file. The user can search through the messages by subject, sender, and receiver. To finish up the program, this week you will add another type of encryption, the `Substitution Cipher`. Instructions can be found in the [javadoc](http://www.cs.colostate.edu/~cs163/javadoc/lab14/package-summary.html).
+So far you have made a message app where a user can write a message, which can be stored to a file. The user can search through the messages by subject, sender, and receiver. To finish up the program, this week you will add another type of encryption, the `Substitution Cipher`. Instructions can be found in the [javadoc](https://csu-compsci-cs163-4.github.io/Lab14EncryptedMessageApp/package-summary.html).
 
 The goal for this week is to explore polymorphism. Make sure to check the variables and methods for each class to see what you need to update.
 
@@ -112,10 +112,10 @@ BODY: Definitely not a message, definitely not from the Cheshire Cat.
 ```
 
 ## Step 1: Getting Started
-Take a look at the [javadoc](http://www.cs.colostate.edu/~cs163/javadoc/lab14/package-summary.html) and take note of what methods you need to create from scratch, which ones you need to modify from Lab 12, and which ones you already did and don't need to change. 
+Take a look at the [javadoc](https://csu-compsci-cs163-4.github.io/Lab14EncryptedMessageApp/package-summary.html) and take note of what methods you need to create from scratch, which ones you need to modify from Lab 12, and which ones you already did and don't need to change. 
 
 ## Step 2: Implementation
-Follow the [javadoc](http://www.cs.colostate.edu/~cs163/javadoc/lab14/package-summary.html) and write some code. Make sure to write tests for your code as you work on each method.
+Follow the [javadoc](https://csu-compsci-cs163-4.github.io/Lab14EncryptedMessageApp/package-summary.html) and write some code. Make sure to write tests for your code as you work on each method.
 
 ## Step 3: Finishing up
 To turn in your assignment, click through the link on Canvas, upload your files to Zybooks and click submit for grading. Note you can do this more than once.
